@@ -1,4 +1,4 @@
 Breeze-executable-version
 =========================
 
-Executable version including winX86 and winx64
+Executable version on winx64
